@@ -9,6 +9,8 @@ CMC, or Combined Models Chat is a desktop application with group chat like UI bu
 The prompts from the user are taken by Selenium's webdriver and are given to the bots through a headless browser. The replies of each bot are scraped back to the user and are then displayed in the chatbox. All bots will see each other's conversations as they are prompted beforehand that they will have a group discussion between each other.
 
 # Function Modes (TBD)
+1. Web Extraction
+2. API
 options:
 # GUI (UNFINSHED)
 
