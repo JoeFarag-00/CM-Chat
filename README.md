@@ -12,7 +12,7 @@ The prompts from the user are taken by Selenium's webdriver and are given to the
 1. Web Extraction
 2. API
 options:
-# GUI (UNFINSHED)
+# GUI (chat TBD)
 
 ![image](https://github.com/JoeFarag-00/CM-Chat/assets/88057098/2106741a-68c4-4534-87ac-6caeb1c43888)
 
